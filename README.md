@@ -6,7 +6,7 @@ SSR(Screen Space Reflection)은 화면에 보이는 정보만 반사할 수 있�
 공연장 프로젝트에서는 넓은 바닥을 정확하게 반사하는 것이 중요했기 때문에 Planar Reflection을 직접 구현하고 적용했습니다.
 
 Planar Reflection 방식은 카메라를 만들어 허상에도 렌더링하는 방법입니다. 허상 카메라라고 부르겠습니다.
-허상 카메라에서 렌더링한 Render Texture를 전역 셰이더 변수로 등록하고 사용하겠습니다.
+허상 카메라에서 렌더링한 Render Texture를 전역 셰이더 변수로 등록하고 사용합니다.
 
 ---
 
