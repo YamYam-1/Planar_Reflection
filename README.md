@@ -11,7 +11,7 @@ Planar Reflection 방식은 카메라를 만들어 허상에도 렌더링하는 
 ---
 
 ## Demo
-<img width="1097" height="988" alt="Image" src="https://github.com/user-attachments/assets/a357dd91-89f5-470d-84da-b18181683877" />
+<img width="588" height="878" alt="Image" src="https://github.com/user-attachments/assets/6c447d69-4eda-4809-b4b5-4ac7b71d68bb" />
 
 ---
 
